@@ -1,16 +1,26 @@
-# card_sample
+# Card Example
 
-A new Flutter project.
+A Card re-build
 
-## Getting Started
+## Its from a tutorial
 
-This project is a starting point for a Flutter application.
+This project is a tutorial which can be found from the link below.
 
-A few resources to get you started if this is your first Flutter project:
+There is however a few modifications on mine
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    - There is a getter in the Model
+    - The Details Page has been modified a little... maybe too much.
 
-For help getting started with Flutter, view our
+Link to original tutorials :
+
+- [Tutorial Part 1](https://flutter.dev/docs/get-started/codelab)
+- [Tutorial Part 2](https://flutter.dev/docs/cookbook)
+
+Note that the Original tutorial was made by [Shuaib Afegbua](https://proandroiddev.com/@afegbua)
+
+
+Also...
+
+For help getting started with Flutter, view Flutter's
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
