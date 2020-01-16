@@ -13,8 +13,8 @@ There is however a few modifications on mine
 
 Link to original tutorials :
 
-- [Tutorial Part 1](https://flutter.dev/docs/get-started/codelab)
-- [Tutorial Part 2](https://flutter.dev/docs/cookbook)
+- [Tutorial Part 1](https://proandroiddev.com/flutter-thursday-02-beautiful-list-ui-and-detail-page-a9245f5ceaf0)
+- [Tutorial Part 2](https://medium.com/@afegbua/this-is-the-second-part-of-the-beautiful-list-ui-and-detail-page-article-ecb43e203915)
 
 Note that the Original tutorial was made by [Shuaib Afegbua](https://proandroiddev.com/@afegbua)
 
